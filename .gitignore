@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Exports and raw audio (never committed)
+exports/**
+!exports/
+!exports/drafts/
+!exports/final/
+!exports/**/.gitkeep
+production/audio-raw/**
+!production/audio-raw/
+!production/audio-raw/.gitkeep
+
+# Large media
+*.mp4
+*.mov
+*.wav
+*.m4a
+*.mp3
+*.webm
+*.mkv
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+
+# Build output
+out/
+build/
+dist/
+video-project/out/
+
+# Local-only notes and settings
+production/setup-handoff.md
+.claude/settings.local.json
