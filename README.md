@@ -42,4 +42,12 @@ Project rules for Claude Code live in `CLAUDE.md`. Read it first.
 
 ## Remotion Studio and rendering
 
-TBD. These commands are added only after they have been verified against the installed Remotion version (Phase C).
+Verified with Remotion 4.0.541 on 2026-11-08. Run from `video-project/`:
+
+```bash
+npx remotion studio                                                    # Studio at http://localhost:3000 (add --no-open to skip opening a browser)
+npx remotion render Test3D ../exports/drafts/test-3d.mp4 --codec=h264  # render MP4
+npx remotion still Test3D ../exports/drafts/test-3d-still.png --frame=75  # render one still
+```
+
+`remotion.config.ts` sets `Config.setChromiumOpenGlRenderer("angle")` (needed for Three.js, see remotion.dev/docs/three). The config file only applies to CLI commands, not the Node.js APIs.
