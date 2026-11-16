@@ -1,0 +1,18 @@
+[voice am_michael]
+You know that one friend who ALWAYS says he'll pay you back later?
+[pause 0.5]
+[voice am_fenrir]
+Bro, Touch n Go broken.
+[pause 0.5]
+No cash. Tomorrow I transfer.
+[pause 0.5]
+After next month's salary comes.
+[pause 0.7]
+[voice am_michael]
+Dinner after dinner. At this point, you're basically sponsoring his food.
+[pause 0.7]
+Then one night, you check his Instagram stories...
+[pause 1.5]
+He can afford a new watch and overseas holidays, but he can't pay back one hundred ringgit.
+[pause 0.7]
+You're not his friend anymore. You're his interest-free bank.

@@ -287,7 +287,7 @@ export const Spike10s: React.FC = () => {
         <Room />
         <World />
       </Scene>
-      <Sequence from={0} durationInFrames={S2}>
+      <Sequence durationInFrames={S2}>
         <Caption
           words={hook.map((t, i) => ({
             text: t,

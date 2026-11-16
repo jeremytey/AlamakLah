@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.541",
+    "@remotion/install-whisper-cpp": "4.0.541",
     "@types/react": "19.3.0",
     "@types/web": "0.0.166",
     "eslint": "10.12.0",

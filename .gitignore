@@ -36,3 +36,10 @@ video-project/out/
 # Local-only notes and settings
 production/setup-handoff.md
 .claude/settings.local.json
+
+# Local whisper.cpp build and models (never committed)
+video-project/whisper.cpp/
+
+# Local Kokoro TTS environment and caches (never committed)
+tools/kokoro/.venv/
+tools/kokoro/cache/

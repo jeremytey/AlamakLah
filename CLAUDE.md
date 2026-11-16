@@ -4,7 +4,7 @@
 Faceless Malaysian short-video page: "Malaysian everyday life, behaviour and curious what-ifs made interesting." Platforms: Instagram Reels, TikTok, YouTube Shorts (same master file). Cadence about 3/week, drop to 2 before cutting quality. Long-term: audience learning for a possible future consumer product. Never force a product into videos. Views and likes are not validated problems.
 
 ## Owner
-Jeremy, CS student. English-first narration (Malaysian flavour allowed, sparingly). I record my own voice on my phone; you cannot record or generate voice.
+Jeremy, CS student; voiceover is generated locally with Kokoro-82M (narrator voice am_michael, friend voice am_fenrir, approved after an audition), not recorded by him. English-first narration (Malaysian flavour allowed, sparingly).
 
 ## Operating rules
 - Be a critical partner: challenge weak hooks, slow scripts and needless complexity. No flattery.
@@ -21,7 +21,7 @@ WHY: Hook -> Recognition -> Explanation -> Escalation -> Payoff
 WHAT IF: Hook -> Changed rule -> Consequences -> Escalation -> Payoff
 
 ## Production constraints
-25-45s, 5-8 scenes, 1080x1920, 30fps, H.264 MP4. One voice, one caption style, one visual style. New scene every 3-5 seconds. No watermark.
+25-45s, 5-8 scenes, 1080x1920, 30fps, H.264 MP4. One narrator voice (am_michael) plus one character voice for the friend (am_fenrir); one caption style, one visual style. New scene every 3-5 seconds. No watermark.
 
 ## Time limits (separate; none overrides another)
 - Environment setup + 3-second technical test: aim 60 min of work (excluding waiting for my replies); test work time and render time reported separately.
